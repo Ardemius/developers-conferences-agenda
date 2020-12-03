@@ -83,6 +83,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [Virtualized] 19: [Cloud Nord](https://cloudnord.fr/) - France (Lille)
 * 27-28: [DroidCon Turin](https://it.droidcon.com/2020/it) - Italy (Turin)
 
+### December
+
+* [Virtualized] 4-6: [jLove Conference](https://jlove.konfy.care/) 
+
 ## 2021
 
 ### January
